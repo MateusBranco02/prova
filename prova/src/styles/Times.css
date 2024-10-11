@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 200px;
+}
+
+.btn-buscar {
+    width: 100px;
+    height: 30px;
+    color: #FFF;
+    background-color: #DD4913;
+    border: none;
+    border-radius: 5px;
+}
+
+ul li p {
+    color: #000;
+}
+
+ul a {
+    text-decoration: none;
+}
